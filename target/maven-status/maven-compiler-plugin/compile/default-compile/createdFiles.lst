@@ -1,0 +1,8 @@
+SamTseb\SimpleSpringMVC\dao\FilmDAO.class
+SamTseb\SimpleSpringMVC\controller\FilmController.class
+SamTseb\SimpleSpringMVC\dao\FilmDAOImpl.class
+SamTseb\SimpleSpringMVC\service\FilmServiceImpl.class
+SamTseb\SimpleSpringMVC\model\Film.class
+SamTseb\SimpleSpringMVC\config\AppInitializer.class
+SamTseb\SimpleSpringMVC\config\WebConfig.class
+SamTseb\SimpleSpringMVC\service\FilmService.class
